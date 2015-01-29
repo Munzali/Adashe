@@ -1,0 +1,525 @@
+/* CSS Document */
+
+body   {
+        background-color: #F0F0F0;
+		margin:inherit;
+		}
+		
+		
+		
+		
+		
+#container   {
+              width:850px;
+			  margin:auto;
+			  height:px;
+			  background-color:#FFFFFF;
+			  box-shadow: #CCC 5px 10px 10px;
+			  }		
+			  
+			  
+			  
+			  
+#header      {
+              width:px;
+			  height:50px;
+			  background-image:;
+			  margin:inherit;
+              opacity:0.7;
+			  }				  
+			  
+
+
+
+#tittlename     {
+                  width:50px;
+			      height:px;
+			      background-color:;
+			      color: #666666;
+			      font-style:italic;
+				  margin-left:20px;
+				  line-height:50px;
+				  font-size:28px;
+				  font-weight:bolder;
+				  
+			       }
+				   
+#tittlecolor     {
+                   color:#4AA5FF;
+				   }
+				   
+				   
+#tittlecolor2     {
+                   color: #00D500;
+				   }				   
+
+
+#menucontainer    {
+                    background-color: #4AA5FF;
+					width:600px;
+					height:30px;
+					margin-left:250px;
+					border-radius:5px;
+					}				   
+					
+					
+#categories    {
+                    background-color: #00D500;
+					width:200px;
+					height:30px;
+					margin-left:px;
+					border-radius:5px;
+					margin-top:-20px;
+					}						
+					
+					
+#loginform    {
+                    background-color:;
+					width:;
+					height:;
+					margin-left:;
+					border-radius:;
+					margin-top:;
+					position:relative;
+					}					
+					
+#form    {
+                    background-color:;
+					width:300px;
+					height:280px;
+					margin-left:515px;
+					border-radius:7px;
+					margin-top:;
+					border:thin groove #CCCCCC;
+					}	
+					
+#input3   {
+                    background-color: #4AA5FF;
+					width:70px;
+					height:;
+					margin-left:;
+					border-radius:5px;
+					margin-top:;
+					color:#FFFFFF;
+					margin-left:210px;
+					border:thin #E2E2E2 groove;
+					}	
+					
+					
+#input3:hover   {
+                    background-color: #00D500;
+					width:70px;
+					height:;
+					margin-left:;
+					border-radius:5px;
+					margin-top:;
+					color:#FFFFFF;
+					margin-left:210px;
+					border:thin #E2E2E2 groove;
+					}	
+					
+					
+#input2   {
+                    background-color:;
+					width:250px;
+					height:;
+					margin-left:25px;
+					border-radius:5px;
+					margin-top:;
+					border:thin #E2E2E2 groove;
+					color:#999999;
+					}									
+					
+#input1   {
+                    background-color:;
+					width:250px;
+					height:;
+					margin-left:25px;
+					border-radius:5px;
+					margin-top:;
+					border:thin #E2E2E2 groove;
+					color:#999999;
+					
+					}									
+						
+						
+#label1   {
+                    background-color:;
+					width:;
+					height:;
+					margin-left:15px;
+					border-radius:5px;
+					margin-top:;
+					color: #666666;
+					}	
+					
+					
+#label2   {
+                    background-color:;
+					width:;
+					height:;
+					margin-left:15px;
+					border-radius:5px;
+					margin-top:;
+					color: #666666;
+					}													
+															
+#formtittle1      {
+                   background-color:;
+				   color: #4AA5FF;
+				   height:40px;
+				   width:215px;
+				   font-family:Harlow Solid Italic;
+				   font-size:24px;
+				   }
+				   
+#forgetpassword     {
+                     color:#009FEC;
+					 margin-left:15px;
+					 }		
+					 
+#forgetpassword:hover     {
+                     color:#00D500;
+					 margin-left:15px;
+					 }
+					 
+#notecreataccount      {
+                         color:#999999;
+						 margin-left:10px;
+                        }					 
+						
+#creataccountbotton     {
+                         background-color:#4AA5FF;
+						 color:#FFFFFF;
+						 text-align:center;
+						 width:200px;
+						 border-radius:5px;
+						 }
+						 
+#creataccountbotton:hover     {
+                         background-color:#00D500;
+						 color:#FFFFFF;
+						 
+						 }	
+						 
+#menuholder          {
+                      color:#FFFFFF;
+					  height:30px;
+					  line-height:30px;
+					  margin-left:20px;
+					 
+					  }    						 					 											 		   									
+					  
+#home          {
+                      color:;
+					  width:50px;
+					  height:30px;
+					  } 
+					  
+#home:hover          {
+                      color:;
+					  width:50px;
+					  height:30px;
+					  font-size:17px;
+					  color:#AEFFAE;
+					  } 					  
+					  
+					  
+#aboutus         {
+                      color:;
+					  width:80px;
+					  margin-left:70px;
+					  margin-top:-30px;
+					  height:30px;
+					  } 
+					  
+#aboutus:hover         {
+                      color:;
+					  width:80px;
+					  margin-left:70px;
+					  margin-top:-30px;
+					  height:30px;
+					  font-size:17px;
+					  color:#AEFFAE;
+					  } 					  
+					  
+#howitworks          {
+                      color:;
+					  width:100px;
+					  margin-left:150px;
+					  margin-top:-30px;
+					  height:30px;					  
+					  } 
+					  
+#howitworks:hover          {
+                      color:;
+					  width:100px;
+					  margin-left:150px;
+					  margin-top:-30px;
+					  height:30px;
+					  font-size:17px;
+					  color:#AEFFAE;					  
+					  } 					  
+					  
+#termsandconditions          {
+                      color:;
+					  width:150px;
+					  margin-left:255px;
+					  margin-top:-30px;
+					  height:30px;					  
+					  } 
+					  
+					  
+#termsandconditions:hover          {
+                      color:;
+					  width:150px;
+					  margin-left:255px;
+					  margin-top:-30px;
+					  height:30px;
+					  font-size:17px;
+					  color:#AEFFAE;					  
+					  } 					  
+					  
+					  
+#contactus         {
+                      color:;
+					  width:120px;
+					  margin-left:410px;
+					  margin-top:-30px;
+					  height:30px;					  
+					  } 	
+					  
+#contactus:hover         {
+                      color:;
+					  width:120px;
+					  margin-left:410px;
+					  margin-top:-30px;
+					  height:30px;
+					  font-size:17px;
+					  color:#AEFFAE;					  
+					  } 			
+					  
+#welcomenote   {
+                 margin-top:-280px; 
+				 width:470px;
+				 }	
+				 
+				 				  
+#wotadashe     {
+                 margin-left:7px; 
+				 color:#666666; 
+				 border:thin #F4F4F4 groove; 
+				 padding:10px;
+				 }					  		  				  					  
+
+
+#whyadashe     {
+                 margin-left:7px; 
+				 color:#666666; 
+				 border:thin #F4F4F4 groove; 
+				 padding:10px;
+				 }					  		  				  					  
+  
+#typesofadashe  {
+                  border:thin #F4F4F4 groove;
+				  box-shadow: #CCC 10px 10px 10px 10px;
+				  }  
+				  
+				  		  					  					  					  					  
+
+#enteradashe    {
+                  width:100px;
+				  border-radius:5px;
+				  background-color: #F8F8F8;
+				  border:thin groove #EBEBEB;
+				  color:#00DD6F;
+				  box-shadow: #CCC 5px 5px 5px 5px;
+				  }	
+				  
+#enteradashe:hover     {
+                   background-color:#D7D7D7;
+				   color:#6464FF;
+				   }				  		
+				  
+#fivet          {
+                  width:150px;
+				  height:140px;
+				  color:#00A3F0;
+				  border-radius:10px;
+				  background-image:url(img/grad.png);
+				  box-shadow: #CCC 5px 5px 5px 5px;
+				  margin-left:10px;
+				  }		
+				  
+#fivet:hover    {
+                 background-color:#F4F4F4;
+				 opacity:0.5;}				  	  
+				 
+				 
+#tent          {
+                  width:150px;
+				  height:140px;
+				  color:#00A3F0;
+				  border-radius:10px;
+				  background-image:url(img/grad.png);
+				  box-shadow: #CCC 5px 5px 5px 5px;
+				  margin-left:180px;
+				  margin-top:-140px;
+				  }		
+				  
+#tent:hover    {
+                 background-color:#F4F4F4;
+				 opacity:0.5;}
+				 
+				 
+				 
+#thirtyt          {
+                  width:150px;
+				  height:140px;
+				  color:#00A3F0;
+				  border-radius:10px;
+				  background-image:url(img/grad.png);
+				  box-shadow: #CCC 5px 5px 5px 5px;
+				  margin-left:350px;
+				  margin-top:-140px;
+				  }		
+				  
+#thirtyt:hover    {
+                 background-color:#F4F4F4;
+				 opacity:0.5;}
+				 
+#fiftyt          {
+                  width:150px;
+				  height:140px;
+				  color:#00A3F0;
+				  border-radius:10px;
+				  background-image:url(img/grad.png);
+				  box-shadow: #CCC 5px 5px 5px 5px;
+				  margin-left:520px;
+				  margin-top:-140px;
+				  }		
+				  
+#fiftyt:hover    {
+                 background-color:#F4F4F4;
+				 opacity:0.5;}
+				 
+				 
+#hundredt          {
+                  width:150px;
+				  height:140px;
+				  color:#00A3F0;
+				  border-radius:10px;
+				  background-image:url(img/grad.png);
+				  box-shadow: #CCC 5px 5px 5px 5px;
+				  margin-left:690px;
+				  margin-top:-140px;
+				  }		
+				  
+#hundredt:hover    {
+                 background-color:#F4F4F4;
+				 opacity:0.5;}				 				 				 				 
+				 
+#divide         {
+                  height:7px;
+				  background-color:#3CFF6C;
+				  }				 
+				  
+#footer         {
+                  height:150px;
+				  background-color: #0073AA;
+				  
+				  }	
+				  
+#cname          {
+                  color:#666666;
+				  font-weight:bolder;
+				  }	
+				  
+#lside          {
+                  width:350px;
+				  height:px;
+				  padding:10px;
+				  color:#999999;
+				  float: left;
+				  }	
+				  
+#rside           {
+                   margin-top:px;
+				   margin-left:px;
+				   }			
+				   
+#notification     {
+                   width:400px;
+				   height:300px;
+				   margin-left:px;
+				   color:#666666;
+				   margin-top:px;
+				   float: right;
+				   }	
+				   
+#enteryouradashe    {
+                     float:;
+					 padding:10px;
+					 }				   		
+				   
+#container2       {
+                    height:300px;
+					} 		
+					
+#details         {
+                  color: #0095DD;
+				  font-weight:bolder;
+				  }		
+				  
+#adhistory        {
+                    background-image:url(img/bleubgc.png);
+					width:100px;
+					color:#FFFFFF;
+					float:right; 
+					}
+					
+#adhistory:hover        {
+                    
+					background-color: #FFFFFF;
+					opacity:0.7;
+					
+					color:#FFFFFF; 
+					}
+					
+#adlogout       {
+                    background-image:url(img/bleubgc.png);
+					width:100px;
+					color:#FFFFFF;
+					float:right; 
+					}
+					
+#adlogout:hover        {
+                    
+					background-color: #FFFFFF;
+					opacity:0.7;
+					
+					color:#FFFFFF; 
+					}
+#containerbelow      {
+                       height: 300px;
+					   }
+					   
+#enterbronze        {
+                       background-color:#F3F3F3;
+					   color:#6C6C6C;
+					   }	
+					   
+#enterbronze        {
+                       background-color:#F3F3F3;
+					   color:#6C6C6C;
+					   }
+					   
+#enterbronze        {
+                       background-color:#F3F3F3;
+					   color:#6C6C6C;
+					   }
+					   
+#enterbronze        {
+                       background-color:#F3F3F3;
+					   color:#6C6C6C;
+					   }					   					   					   				   																			  						   	   	  			  			  				  
